@@ -10,7 +10,6 @@ This is a simple C program for image processing, capable of performing various o
 
 The program can read PGM images in both ASCII (P2) and binary (P5) formats.
 
-<br />
 
 ## Requirements
 
