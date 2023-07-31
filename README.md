@@ -35,5 +35,13 @@ The program supports PGM images in both ASCII and binary formats (P2 and P5, res
 
 The modified image will be generated in the P2 (ASCII) format, regardless of the input format. The output image is saved as "img_nova.pgm" in the same directory.
 
-## Examples
+# A few examples
+Left image = Original |
+Right image = M
+## Logarithm operator
+![image](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/16d34ffa-1027-423e-b45e-5eacdb96bfc6)
+![image](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/6d98ced1-d99b-464b-a09f-0054b125e364)
 
+## Contrast Stretching
+![image](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/74b82c0b-6969-41ee-a3b3-39e28ecb2c21)
+![image](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/9a85cc9e-6500-41f6-a9e2-beda758d8e3e)
