@@ -1,45 +1,39 @@
 # Image Processing Toolkit
 
-This is a simple C program for image processing, capable of performing various operations on PGM images. The program supports the following operations:
+This is a simple C program for image processing that reads a Portable Graymap (PGM) image, applies various image processing operations, and generates a new modified image.
+## Features
 
-1. Logarithmic transformation
-2. Contrast stretching
-3. Paintbrush (flood fill)
-4. Exponential transformation (optional)
-5. Image negative (optional)
+The program supports the following image processing operations:
 
-The program can read PGM images in both ASCII (P2) and binary (P5) formats.
+1. Logarithmic Transformation
+2. Contrast Stretching
+3. Flood Fill (Paintbrush)
+4. Exponential Transformation (Optional)
+5. Image Negative (Optional)
+6. Mean Filter (Optional)
+7. Median Filter (Optional)
 
 
-## Requirements
+## Getting Started
 
-• C compiler (e.g., GCC)<br />
-• PGM image files for testing the program
+• Clone the repository to your local machine. <br />
+• Compile the C program using a C compiler (e.g., GCC).<br />
+• Run the compiled binary.<br />
 
-<br />
+## Usage
 
-# Usage
+• Upon running the program, you will be prompted to choose an image processing operation from the menu. <br />
+• Enter the number corresponding to the desired operation. <br />
+• Provide the filename of the PGM image you want to process when prompted. <br />
+• The program will perform the selected operation on the input image and generate a new modified PGM image named "img_nova.pgm" in the same directory. <br />
 
-• Enter the operation number you wish to perform.<br />
-• Next, enter the filename of the PGM image you want to process. The image should be located in the same directory as the program.<br />
-• The program will process the image and create a new PGM image file named img_nova.pgm with the results of the chosen operation.    
+## Input Format
 
-<br />
+The program supports PGM images in both ASCII and binary formats (P2 and P5, respectively). It automatically detects the format and reads the image accordingly.
 
-# Input format
-The program expects a PGM image file as input in either ASCII (P2) or binary (P5) format.<br />
-The header of the PGM file should contain the following information:
+## Output Format
 
-P2/P5<br />
-#CREATOR: [creator information]<br />
-[width] [height]<br />
-[max_value]<br />
-[pixel data]<br />
+The modified image will be generated in the P2 (ASCII) format, regardless of the input format. The output image is saved as "img_nova.pgm" in the same directory.
 
-<br />
+## Examples
 
-# Output format
-The output will be a new PGM image file named img_nova.pgm, which will be stored in the same directory as the program.<br />
-The format of the output image will be the same as the input image.
-
-# Examples
