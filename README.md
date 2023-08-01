@@ -39,12 +39,16 @@ The modified image will be generated in the P2 (ASCII) format, regardless of the
 Left image = Original <br />
 Right image = Modified
 ## Logarithm operator
-![image](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/16d34ffa-1027-423e-b45e-5eacdb96bfc6)
-![image](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/6d98ced1-d99b-464b-a09f-0054b125e364)
+![fusca1](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/188fdfac-44a5-4e28-b1fb-1b32406b9ea7)
+![fuscalog](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/2d5c7c37-f1a4-446b-922e-a61a5147e42f)
+
 
 ## Contrast Stretching
-![image](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/74b82c0b-6969-41ee-a3b3-39e28ecb2c21)
-![image](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/9a85cc9e-6500-41f6-a9e2-beda758d8e3e)
+![bubbles2](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/901d5ddb-a1c0-4cea-a75a-127e3a276ea0)
+![bubblesmod](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/fec2e419-a16e-47c5-8882-ae77f5f19024)
+
 
 ## Floodfill
+![folha](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/c92493bf-48b3-433d-abfb-adb4f5af5030)
+![folhamod](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/0df3053a-83c6-4abb-9349-34a18ea7600e)
 
