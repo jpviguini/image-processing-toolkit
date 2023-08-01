@@ -13,6 +13,7 @@ The program supports the following image processing operations:
 6. Mean Filter 
 7. Median Filter 
 
+Full explanation of each operation can be found here: https://homepages.inf.ed.ac.uk/rbf/HIPR2/wksheets.htm
 
 ## Getting Started
 
