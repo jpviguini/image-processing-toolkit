@@ -39,7 +39,7 @@ The modified image will be generated in the P2 (ASCII) format, regardless of the
 Left image = Original <br />
 Right image = Modified
 ## Logarithm operator
-![fusca1](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/188fdfac-44a5-4e28-b1fb-1b32406b9ea7)
+![fusca1](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/01d7f9df-bccc-4e95-8912-8cc758ed216e)
 ![fuscalog](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/2d5c7c37-f1a4-446b-922e-a61a5147e42f)
 
 
