@@ -54,3 +54,5 @@ Right image = Modified
 ![folhamod](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/2e26e250-1e84-4740-b23c-a56713c13e9f)
 
 
+## Aknowledgements
+This is an extended version of the final project from the discipline Introduction do Computer Science (SCC-221) at the Institute of Mathematics and Computer Science (University of São Paulo).
