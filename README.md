@@ -8,10 +8,10 @@ The program supports the following image processing operations:
 1. Logarithmic Transformation
 2. Contrast Stretching
 3. Flood Fill (Paintbrush)
-4. Exponential Transformation (Optional)
-5. Image Negative (Optional)
-6. Mean Filter (Optional)
-7. Median Filter (Optional)
+4. Exponential Transformation 
+5. Image Negative 
+6. Mean Filter 
+7. Median Filter 
 
 
 ## Getting Started
