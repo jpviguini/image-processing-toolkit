@@ -41,20 +41,24 @@ Left image = Original <br />
 Right image = Modified
 ## Logarithm operator
 ![fusca1](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/01d7f9df-bccc-4e95-8912-8cc758ed216e)
+![fuscamod1](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/9a7e3f09-dd64-468c-8c5b-d8e95ad6294f)
 
 
 
 ## Contrast Stretching
 ![bubbles2](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/302efdc3-a3d4-4b58-a6cd-d4d6eff66111)
+![bubblesmod1](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/37f45c89-c643-4442-acfc-b660f366ea9c)
 
 
 
 ## Floodfill
 ![folha](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/d49aacfa-b43f-4c82-a3a5-c27833c262b0)
+![folhamod1](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/5fc7ba56-7f4d-406f-9dca-49ebb41af36a)
 
 
 ## Image Negative
 ![sat_image](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/dc753cc6-a68e-4027-a356-a16077a6f8aa)
+![sat_imagemod1](https://github.com/jpviguini/image-processing-toolkit/assets/70961838/29d3086b-70eb-46ca-abae-61b73b958018)
 
 
 
