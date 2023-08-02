@@ -55,4 +55,4 @@ Right image = Modified
 
 
 ## Aknowledgements
-This is an extended version of the final project from the discipline Introduction do Computer Science (SCC-221) at the Institute of Mathematics and Computer Science (University of São Paulo).
+This is an **extended version** of the final project from the discipline Introduction do Computer Science (SCC-221) at the Institute of Mathematics and Computer Science (University of São Paulo).
