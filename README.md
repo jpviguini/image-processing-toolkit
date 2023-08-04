@@ -24,9 +24,25 @@ Full explanation of each operation can be found here: https://homepages.inf.ed.a
 ## Usage
 
 • Upon running the program, you will be prompted to choose an image processing operation from the menu. <br />
+```
+/// Operations Menu ///
+1. Logarithmic Transformation
+2. Contrast Stretching
+3. Flood Fill (Paintbrush)
+4. Exponential Transformation 
+5. Image Negative 
+6. Mean Filter 
+7. Median Filter 
+```
 • Enter the number corresponding to the desired operation. <br />
+```
+Operation number: 1
+```
 • Provide the filename of the PGM image you want to process when prompted. <br />
-• The program will perform the selected operation on the input image and generate a new modified PGM image named "img_nova.pgm" in the same directory. <br />
+```
+PGM file name: fusca.pgm
+```
+• The program will perform the selected operation on the input image and generate a new modified PGM image named **"img_nova.pgm"** in the same directory. <br />
 
 ## Input Format
 
@@ -34,7 +50,7 @@ The program supports PGM images in both ASCII and binary formats (P2 and P5, res
 
 ## Output Format
 
-The modified image will be generated in the P2 (ASCII) format, regardless of the input format. The output image is saved as "img_nova.pgm" in the same directory.
+The modified image will be generated in the P2 (ASCII) format, regardless of the input format. The output image is saved as **"img_nova.pgm"** in the same directory.
 
 # Some examples
 Left image = Original <br />
@@ -63,4 +79,5 @@ Right image = Modified
 
 
 ## Aknowledgements
-This is an **extended version** of the final project from the discipline Introduction do Computer Science (SCC-221) at the Institute of Mathematics and Computer Science (University of São Paulo).
+This is an **extended version** of the final project from the discipline "Introduction do Computer Science I" (SCC-221) at the Institute of Mathematics and Computer Science (University of São Paulo) - ICMC/USP
+
