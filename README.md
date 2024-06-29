@@ -1,6 +1,6 @@
 # Image Processing Toolkit
 
-This is a simple C program for image processing that reads a Portable Graymap (PGM) image, applies various image processing operations, and generates a new modified image.
+This is a C program for image processing that reads a Portable Graymap (PGM) image, applies various image processing operations, and generates a new modified image.
 ## Features
 
 The program supports the following image processing operations:
